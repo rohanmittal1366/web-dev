@@ -1,0 +1,18 @@
+<title>Rohan Mittal PHP</title>
+<h1>Rohan Mittal PHP</h1>
+<p>
+	The SHA256 hash of Rohan Mittal is 3a8a4d70afb7290abdce326e81cb437ab6b4f434e4e5cb63df043e7fbe10ccd7
+?></p>
+<pre>ASCII ART:
+	       ***
+	      *****
+	     **	  **
+	    **     **
+	   ***********
+	  *************
+	 **           **
+	**             **
+</pre>
+<a href="fail.php">Click here to check the error setting</a>
+<br>
+<a href="check.php">Click here to cause a traceback</a>
